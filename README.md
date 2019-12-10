@@ -1,5 +1,5 @@
 # Opinion-Mining-of-Tweets-from-top-3-colleges-of-the-world.
-The project caters to finding the 5 sentiment scores (Happiness,Fear,Anger, Disgust,Sadness) of each tweet using a described formula.
+The project caters to finding the 5 sentiment scores (Happiness,Fear,Anger, Disgust,Sadness) of each college's tweet using a described formula. The colleges used here are Harvard, MIT and Stanford.
 The scores are assigned on the basis of Adverbs or verbs followed by the adjective.
 # Downloading the tweets
 The tweets are downloaded using Twitter API.
