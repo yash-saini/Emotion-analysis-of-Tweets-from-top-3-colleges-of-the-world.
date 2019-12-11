@@ -1,0 +1,17 @@
+adverb,value
+complete,1
+most,0.9
+totally,0.8
+extremely,0.7
+too,0.6
+very,0.4
+pretty,0.3
+more,0.2
+much,0.1
+any,-0.2
+quite,-0.3
+little,-0.4
+less,-0.6
+not,-0.8
+never,-0.9
+hardly,-1
