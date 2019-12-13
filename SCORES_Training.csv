@@ -1,0 +1,4 @@
+College,KNN,SVM,Naive_Bayes
+Harvard,0.7865,0.9801,0.8077
+MIT,0.7836,0.9807,0.7764
+Stanford,0.7667,0.9815,0.8019
